@@ -207,8 +207,8 @@ This project is provided as-is for educational and personal use. Please ensure c
 For issues and questions:
 1. Check the troubleshooting section above
 
+_________________________________________________________________
 HOW TO USE
-__________________________________________________________
 2. 1. Run P2P_Launcher.exe 
 2. Have the installation directory as the working directory
 3. Allow the launcher to find and load main.py successfully
