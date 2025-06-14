@@ -209,7 +209,7 @@ For issues and questions:
 
 _________________________________________________________________
 HOW TO USE
-2. 1. Run P2P_Launcher.exe 
+1. Run P2P_Launcher.exe 
 2. Have the installation directory as the working directory
 3. Allow the launcher to find and load main.py successfully
 4. Launch your P2P Privacy Communications application properly
