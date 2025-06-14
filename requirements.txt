@@ -1,0 +1,15 @@
+# Core dependencies
+cryptography>=41.0.0
+
+# Audio support (optional but recommended for voice calls)
+pyaudio>=0.2.11
+
+# Alternative audio libraries if pyaudio doesn't work
+# sounddevice>=0.4.6
+# pydub>=0.25.1
+
+# For future enhancements
+# requests>=2.31.0  # For HTTP link validation
+# qrcode>=7.4.2     # For QR code generation
+# pillow>=10.0.0    # For image processing
+
